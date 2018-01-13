@@ -1,0 +1,11 @@
+.container {
+    margin: 50px;
+}
+img {
+    width: 300px;
+    padding: 50px 0px;
+    display: block;
+}
+.btn {
+    margin: 0px 20px;
+}
