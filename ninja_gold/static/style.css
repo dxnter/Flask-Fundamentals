@@ -1,0 +1,14 @@
+body {
+    background-color: #f0f0f0 !important;
+}
+
+#goldBalance {
+    margin: 20px 0px;
+}
+.row h5{
+    margin: 10px 15px;
+}
+
+.card-text{
+    margin: 30px 0px;
+}
